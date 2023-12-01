@@ -98,9 +98,11 @@ else:
 
 ```
 ## Sample Input and Output
-![Alt text](<element 1.png>)
-![Alt text](<element 2.png>)
-![Alt text](<element 3.png>)
+![element 1](https://github.com/PREM3112/Search-Algorithm/assets/145449383/9c497356-bf14-493a-91f0-57ee1e921134)
+![element 2](https://github.com/PREM3112/Search-Algorithm/assets/145449383/1a45fe1c-1749-48fe-8daa-980744b58be6)
+![element 3](https://github.com/PREM3112/Search-Algorithm/assets/145449383/2755d28e-5e38-46b5-a6ea-51a24ea6596f)
+
+
 
 
 
